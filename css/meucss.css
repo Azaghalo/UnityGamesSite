@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed');
+
+body{
+  font-family: 'Roboto Condensed', sans-serif;
+  background-image: url(../image/Background2.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.topo-topicos{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    margin-bottom: 0;
+    border-radius: 5px;
+    background: #202020;
+    color: #00FFFF;
+}
+.carousel-text{
+  color: #00FFFF;
+  background-color: rgba(0,0,0,0.2)
+}
+.carousel-text p{
+  font-size: 20px;
+}
+.menu-text {
+  color: #00FFFF;
+  float: left;
+  height: 50px;
+  padding: 15px 15px;
+  font-size: 25px;
+  line-height: 20px;
+}
+.lancamentos{
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+.menu-text:hover{
+  text-decoration: none;
+}
+.img-console{
+  margin-bottom:10%;
+}
+.thumbnailtext{
+  text-align: right;
+  font-size: 16px;
+  background-color: #202020;
+  color: #00FFFF;
+}
+.embed-responsive{
+    padding: 15%;
+}
+.descontos{
+  font-size: 20px;
+}
+.descontos-span{
+  background-color: #99ff99;
+}
+.thumbnailtext p,.thumbnailtext h3{
+  color: #00FFFF;
+}
+.texto{
+  height: 120px !important;
+  resize: none;
+}
+.fundo-rodape{
+  background: #202020;
+  color: #00ffff;
+}
+.fundo-rodape address{
+  margin-bottom: 0;
+  padding:20px 45px;
+  box-sizing: border-box;
+}
+.consoles-margin{
+  margin-left: 1%;
+  padding-left: 0px;
+}
+.img-desconto{
+  margin-top: 10px;
+  width: 70%;
+}
+.cap-desconto{
+  min-height: 204px;
+}
+.plataforma-Img{
+  margin: auto;
+  width: 100%;
+}
