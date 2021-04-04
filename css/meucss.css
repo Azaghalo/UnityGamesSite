@@ -88,3 +88,15 @@ body{
   margin: auto;
   width: 100%;
 }
+.creditos{
+  color: #097e7e94;
+  font-size: 15px;
+}
+.credtLink{
+  color: #36b48a;
+  text-decoration: none;
+}
+.credtLink:hover{
+  color: #00FFFF;
+  text-decoration: none;
+}
