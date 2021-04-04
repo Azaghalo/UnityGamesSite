@@ -70,7 +70,7 @@ body{
 }
 .fundo-rodape address{
   margin-bottom: 0;
-  padding:20px 45px;
+  padding:20px 45px 10px 45px;
   box-sizing: border-box;
 }
 .consoles-margin{
@@ -100,3 +100,4 @@ body{
   color: #00FFFF;
   text-decoration: none;
 }
+
